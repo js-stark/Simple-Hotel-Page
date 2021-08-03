@@ -5,9 +5,9 @@
 ![website](https://user-images.githubusercontent.com/79846829/127953241-29686794-d9d3-4f6f-899c-30e4a6c4704d.png)
 
 ###### The Basic methods used in the design are:
-`<!DOCTYPE html>`
-`<html>`
-`<!-------------------  Head tags ----------------------------------->`
+`<!DOCTYPE html>`\
+`<html>`\
+`<!-------------------  Head tags ----------------------------------->`\
 `<head>`
   `<meta>`
   `<title></title>`
