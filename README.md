@@ -6,15 +6,15 @@
 
 ###### The Basic methods used in the design are:
 
-`<header>``</header>`\
-`<nav>``</nav>`\
+`<header></header>`\
+`<nav></nav>`\
 `<main>`\
     `<h1></h1>`\
     `<p></p>`\
    ` <a></a>`\
 `</main>`\
 
-`<footer>``</footer>`\
+`<footer></footer>`\
 
 #### Measurements Used in the Design
 ![measurements](https://user-images.githubusercontent.com/79846829/127953834-92633952-e8c2-4e3b-b1c7-89c145b7fac6.jpg)
